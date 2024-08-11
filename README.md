@@ -2,6 +2,8 @@
 
 Tested: Working Video 720p, 1080p & Sound
 
+SDRAM disabled completely for this core (not using it)
+
 # [Atari 2600](https://en.wikipedia.org/wiki/Atari_2600) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 # This core is superseded by [Atari 7800 core](https://github.com/MiSTer-devel/Atari7800_MiSTer). This repository is read-only and will be kept for historical purpose.
